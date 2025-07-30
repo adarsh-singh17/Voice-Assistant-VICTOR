@@ -22,19 +22,35 @@ A Python-based AI voice assistant inspired by Alexa, Siri, and Google Assistant.
 
 .
 ├── __main__.py                 # 🔹 Main entry file
+
 ├── README.md                   # 📄 Project description
+
 ├── AI_response.py              # Gemini/AI content generator
+
 ├── AI_text_file.py             # Save AI response to file
+
 ├── Apps_And_Sites.py           # Open apps/sites like Google, YouTube
+
 ├── Chat.py                     # Casual conversation
+
 ├── GreetMe.py                  # Welcome & greet logic
+
 ├── Listen.py                   # Voice input handling
+
 ├── Play_music.py               # Music player
+
 ├── Playing_yt_first_vdo.py     # YouTube video player
+
 ├── Power.py                    # Battery and system info
+
 ├── Search.py                   # Google/Wikipedia search
+
 ├── Speak.py                    # TTS (Text to Speech)
+
 ├── Time_And_Date.py            # Fetch current time/date
+
 ├── temperature.py              # Weather via API
+
 ├── Youtube_Control.py          # YouTube tab navigation
+
 └── Panther/                    # Notes/text saving folder
