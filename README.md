@@ -23,7 +23,7 @@ A Python-based AI voice assistant inspired by Alexa, Siri, and Google Assistant.
 
 ```bash
 .
-├── 0__main__.py                # 🔹 Main entry file
+├── main.py                     # 🔹 Main entry file
 ├── README.md                   # 📄 Project description
 ├── AI_response.py              # Gemini/AI content generator
 ├── AI_text_file.py             # Save AI response to file
