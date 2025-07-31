@@ -2,6 +2,10 @@
 
 A Python-based AI voice assistant inspired by Alexa, Siri, and Google Assistant. Victor can perform multiple smart tasks through voice commands, acting as a fully offline or online digital assistant.
 
+## 📂 Full Source Code
+
+For the complete working source code, please check the [`victor-core`](https://github.com/adarsh-singh17/Voice-Assistant-VICTOR/tree/victor-core) branch.
+
 ---
 
 ## 🚀 Features
